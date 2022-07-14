@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mira_ezz14" target="blank"><img src="https://img.shields.io/twitter/follow/@mira_ezz14?logo=twitter&style=for-the-badge" alt="@mira_ezz14" /></a> </p>
 
-- 🔭 I’m currently working on [Advanced Tut app using MVVC](https://github.com/Amira-Ezz-149/advanced_tut_app)
+- 🔭 I’m currently working on [Advanced Tut app using MVVM](https://github.com/Amira-Ezz-149/advanced_tut_app)
 
 - 🌱 I’m currently learning **clean archticture**
 
