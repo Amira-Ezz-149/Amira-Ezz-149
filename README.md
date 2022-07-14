@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **clean archticture**
 
-- 👯worked in a team in [Foody app](https://github.com/Amira-Ezz-149/Foody) and [DSC Shop](https://github.com/El-Helbawy-M/Dsc_Shop)
+- 👯worked in a team in [Foody app](https://github.com/Amira-Ezz-149/Foody), [DSC Shop](https://github.com/El-Helbawy-M/Dsc_Shop) and [My SunShine [Nasa Competition]](https://github.com/Amira-Ezz-149/my_sunshine)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amira-Ezz-149](https://github.com/Amira-Ezz-149)
