@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **miraezz14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VSWr4fWQSIPSSUgKMLVUHyaugQDs6YeE/view?usp=sharing](https://drive.google.com/file/d/1VSWr4fWQSIPSSUgKMLVUHyaugQDs6YeE/view?usp=sharing)
-- 🔭 I’m currently working on [My Resume](https://drive.google.com/file/d/1VSWr4fWQSIPSSUgKMLVUHyaugQDs6YeE/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1VSWr4fWQSIPSSUgKMLVUHyaugQDs6YeE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
