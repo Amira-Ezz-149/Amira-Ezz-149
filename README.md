@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **miraezz14@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jRztjwsKFeX_lMa74zfSv6xeGp2Bk4O7/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1a_j5HvqjjARHL5-or34RqDJqeblaZDdH/view)
 
 <h3 align="left">Connect with me:</h3>
 
